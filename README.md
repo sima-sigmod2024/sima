@@ -1,4 +1,4 @@
-# SiMa: Effective and Efficient Matching Across Data
+# SiMa: Effective and Efficient Matching Across Data Silos
 
 This repo includes the code used for implementing SiMa, as described in "SiMa: Effective and Efficient Matching Across Data Silos Using Graph Neural Networks".
 
